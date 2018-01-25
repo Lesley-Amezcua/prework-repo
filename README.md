@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='blob:https://imgur.com/988efc7b-fa31-494e-82a7-346c39ca2661' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Lesley-Amezcua/prework-repo/blob/master/tipCalculator.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
